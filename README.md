@@ -2,7 +2,7 @@
 
 App Extensions: a way for you to share your app’s functionality with other apps or the OS itself. One of these types of extensions is a Today Extension, also known as a Widget. These allow you to present information in the Notification Center and Lock Screen, and are a great way to provide immediate and up-to-date information that the user is interested in.
 
-![picture](Today-Extension/Image/Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-30 at 11.48.10.png)
+![picture](/Today-Extension/Image/Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-30 at 11.48.10.png)
 
 # Our Goal
 
